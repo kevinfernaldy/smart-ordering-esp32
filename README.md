@@ -3,11 +3,11 @@ Part of IF4051 Pengembangan Sistem IoT Mid-Term Exam in Institut Teknologi Bandu
 By : 13516109 Kevin Fernaldy, and 13516141 Ilham Wahabi
 
 ### Dependencies
-The ESP32 board used in this project is a ESP32 Devkit V1 DOIT board. The code **MAY NOT WORK** with other boards.
+The ESP32 board used in this project is an ESP32 Devkit V1 DOIT board. The code **MAY NOT WORK** with other boards.
 
 The following library is required.
 1. [**Keypad**](https://playground.arduino.cc/Code/Keypad) by Mark Stanley, Alexander Brevig
-2. [**EspMQTTCleint**](https://github.com/plapointe6/EspMQTTClient) by Patrick Lapointe
+2. [**EspMQTTClient**](https://github.com/plapointe6/EspMQTTClient) by Patrick Lapointe
 3. [**TimeOut**](https://github.com/NitrofMtl/TimeOut) by Nitrof
 4. [**analogWrite**](https://github.com/ERROPiX/ESP32_AnalogWrite) **Polyfill** by ERROPiX
 5. [**ArduinoJSON**](https://arduinojson.org) by Benoit Blanchon
